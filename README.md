@@ -1,7 +1,8 @@
-# Worlds Best Restaurants
-### This is an adaptation of the original gem written by dannyd4315. I have added in CSS selectors in the restaurant.rb file, and updated the scraped urls to use https instead of http. 
+# Indie Game Ranks
+### This is looking at the top indie games on the steam webpage.
 
-This Ruby Gem provides a CLI to view the 50 best restaurants in the World as per the San Pellegrino sponsored 50 Best Restaurants in the World website.
+
+This Ruby Gem provides a CLI to view the top 150 indie games on the Steam website.
 
 ## Installation
 
@@ -11,7 +12,7 @@ This Ruby Gem provides a CLI to view the 50 best restaurants in the World as per
 
 Type the below and follow the on screen prompts.
 
-    $ worlds-best-restaurants
+    $ game_ranks
 
 ## Development
 
@@ -21,7 +22,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/dannyd4315/worlds-best-restaurants-cli-gem. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](contributor-covenant.org) code of conduct.
+Bug reports and pull requests are welcome on GitHub at https://github.com/necrio/CLI-Project 
 
 
 ## License
